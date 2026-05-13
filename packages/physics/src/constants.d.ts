@@ -1,0 +1,9 @@
+export declare const TABLE_LENGTH = 3569;
+export declare const TABLE_WIDTH = 1778;
+export declare const BALL_RADIUS = 26.25;
+export declare const BALL_MASS = 0.142;
+export declare const CUSHION_RESTITUTION = 0.8;
+export declare const FRICTION_ROLLING = 0.01;
+export declare const FRICTION_SLIDING = 0.2;
+export declare const POCKET_RADIUS = 43;
+//# sourceMappingURL=constants.d.ts.map
