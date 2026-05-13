@@ -1,2 +1,7 @@
 node_modules/
 packages/rendering/node_modules
+node_modules
+node_modules/
+dist/
+node_modules/
+test-results/

@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es2020",
+    "experimentalDecorators": true,
+    "outDir": "dist",
+    "strictPropertyInitialization": false,
+    "skipLibCheck": true,
+    "esModuleInterop": true
+  }
+}
