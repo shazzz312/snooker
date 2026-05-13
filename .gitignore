@@ -1,3 +1,5 @@
+node_modules/
+packages/rendering/node_modules
 node_modules
 node_modules/
 dist/
